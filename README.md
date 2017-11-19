@@ -1,0 +1,2 @@
+# Rush
+GitHub Pages
